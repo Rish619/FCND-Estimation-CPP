@@ -561,7 +561,7 @@ VectorXf z(6), zFromX(6);
 Result:
 
 <p align="center">
-<img src="images/gps_update_pass.gif" width="500"/>
+<img src="images/gps_update_pass_1.gif" width="500"/>
 </p>
 
 ```
